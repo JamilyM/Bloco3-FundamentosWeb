@@ -67,11 +67,11 @@ function enviar() {
 }
 
 function mapaZoom() {
-   mapa.style.width = '0px'
-   mapa.style.height = '0px'
+   mapa.style.width = '700px'
+   mapa.style.height = '600px'
 }
 
 function mapaNormal() {
-   mapa.style.width = '400px'
-   mapa.style.height = '250px'
+   mapa.style.width = '600px'
+   mapa.style.height = '300px'
 }
